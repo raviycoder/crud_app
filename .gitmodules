@@ -1,0 +1,3 @@
+[submodule "crud_web_app"]
+    path = crud_web_app
+    url = https://github.com/raviycoder/crud_app.git
